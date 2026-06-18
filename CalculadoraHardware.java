@@ -30,7 +30,7 @@ public class CalculadoraHardware {
         boolean continuar = true;
 
         System.out.println("=============================================");
-        System.out.println("   CALCULADORA DE CUELLO DE BOTELLA HW      ");
+        System.out.println("   CALCULADORA DE EMERGENCIA     ");
         System.out.println("=============================================");
 
         while (continuar) {
